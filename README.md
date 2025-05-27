@@ -7,3 +7,6 @@ node user username password
 
 **start server:**
 node Server
+
+**install node modules**
+npm install
