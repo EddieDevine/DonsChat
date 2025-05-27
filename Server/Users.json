@@ -1,0 +1,17 @@
+{
+  "eddie": {
+    "password": "$2b$10$G.M1IRfH1I/guG1CX/vlnuJ1k0HJazxO2pGqEizq3jqIczsqtL2/.",
+    "token": null,
+    "chats": []
+  },
+  "bob": {
+    "password": "$2b$10$4i3HXXSkkKtLqzBaJ8CUQuu3XbywitVojBYzntTlY66azcnWS0t9u",
+    "token": null,
+    "chats": []
+  },
+  "rick": {
+    "password": "$2b$10$Uo1c4OG/zLfXoHI.eL1CEu9QGrQtibAA7dOebRhXqQwIxxXacqHXu",
+    "token": null,
+    "chats": []
+  }
+}
