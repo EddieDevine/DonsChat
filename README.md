@@ -1,9 +1,9 @@
 # Dons-Chat
 A chat room for CCHS students.
 
-#Running
-create user:
+# Running
+**create user:**
 node user username password
 
-start server:
+**start server:**
 node Server
